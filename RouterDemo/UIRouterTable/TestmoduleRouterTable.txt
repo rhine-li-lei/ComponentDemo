@@ -1,0 +1,7 @@
+auto generated, do not change !!!! 
+
+HOST : testmodule
+
+path:	desc
+/test	测试
+

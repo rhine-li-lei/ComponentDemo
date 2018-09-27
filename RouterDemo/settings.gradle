@@ -1,0 +1,1 @@
+include ':app', ':beerouter-anno', ':beerouter-compiler', ':beerouter-api', ':testmodle'
